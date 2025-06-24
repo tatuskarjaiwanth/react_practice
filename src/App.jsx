@@ -27,7 +27,7 @@ function App() {
           transition={{ duration: 1 }}
           className="text-4xl sm:text-5xl text-pink-700 font-handwritten"
         >
-          All the best, Jaiwanth! 💖
+          All the best, Anushree! 💖
         </motion.h1>
 
         <motion.p

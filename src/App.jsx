@@ -27,7 +27,7 @@ function App() {
           transition={{ duration: 1 }}
           className="text-4xl sm:text-5xl text-pink-700 font-handwritten"
         >
-          All the best, Anushree! 💖
+          All the best, Madhumathi and Anushree! 💖
         </motion.h1>
 
         <motion.p
@@ -36,7 +36,7 @@ function App() {
           transition={{ delay: 1, duration: 1.5 }}
           className="mt-6 text-xl text-purple-700 font-semibold"
         >
-          You can do it! 🚀
+          You guys will ace it! 🚀
         </motion.p>
       </div>
 
